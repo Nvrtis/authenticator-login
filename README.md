@@ -33,7 +33,7 @@ CREATE DATABASE passport_demo;” into the mysql schema.
 - In the terminal you can see the link to webpage, otherwise open a browser and enter http://localhost:8080
 
 
-  ## Description  
+## Description  
   By reverse engineering this code and write a tutorial (linked to above). I am able to use my "google fu" to my best of abilities to dissect this code and try to the best of my abilities to write a step by step tutorial.
 
   ## Usage 
